@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+<img src="https://avatars.githubusercontent.com/u/83268942?s=400&u=79dbdf4364b7cf6cda002af33265aef8e7fec6af&v=4"/>
+<h1> درباره ی من</h1>
+  <p> من ابوالفضل رضایی انشجوی ڪارشناسی رشته ی مهندسی کامپیوتر دانشگاه پیام نور تهران شمال  هستم.</p>
+  
+  <ul>
+    <h3> مشخصات فردی</h3>
+  <li>نام:ابوالفضل</li>
+  <li>نام خانوادگے: رضایی</li>
+  <li>تاریخ تولد: 1378/08/27</li>
+  <li>وضعیت تاهل: مجرد</li>
 
-You can use the [editor on GitHub](https://github.com/abolfazlrzii/Resume-farsi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+</ul>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  
+<h1>مهارت ها</h1>
 
-### Markdown
+<ul>
+    <li> تعمییرات موبایل </li>
+    <li>C</li>
+    <li>پایتون</li>
+    <li>وردپرس</li>
+    <li>ICDL 1</li>
+   <li>ICDL 2</li>
+</ul>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<h1>علایق </h1>
+<ul>
+ <li> مسافرت</li>
+ <li> ورزش  </li>
+</ul>
 
-```markdown
-Syntax highlighted code block
+<h1> زبان ها</h1>
+<ul>
+  <li>فارسی</li>
+    <li>انگلیسی</li>
+</ul>
 
-# Header 1
-## Header 2
-### Header 3
+<h1> تجربه های کاری </h1>
+<ul>
+   <li>من در کارگاه و فروشگاه تلفن کار می‌کنم</li>
+</ul>
 
-- Bulleted
-- List
+<br/>
 
-1. Numbered
-2. List
+<h1> سایر حساب های ڪاربری </h1>
+<ul>
+ 
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abolfazlrzii/Resume-farsi/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+ 
+   - Gmail: abolfazlrezaee50@gmail.com
+ کوئرا: <a href="https://quera.ir/accounts/accept-registration/aydmubpf7h0onupbjmwmp653oke8sho5sznjzd1mhoyxfazsu1xafrukinlvrshe">My Profile</a>
+ </ul>
