@@ -47,6 +47,7 @@
  
 
  
-   - Gmail: abolfazlrezaee50@gmail.com
+   - Gmail: <a href="abolfazlrezaee50@gmail.com">My Gmail
  کوئرا: <a href="https://quera.ir/accounts/accept-registration/aydmubpf7h0onupbjmwmp653oke8sho5sznjzd1mhoyxfazsu1xafrukinlvrshe">My Profile</a>
+  - رزومه ی انگلیسی: <a href="https://abolfazlrzii.github.io/resume/"> Resume </a>
  </ul>
